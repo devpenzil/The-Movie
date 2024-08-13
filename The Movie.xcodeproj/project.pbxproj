@@ -23,6 +23,7 @@
 		64BFCA162C6BE6AB00EC9159 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		64BFCA182C6BE6AB00EC9159 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		64BFCA1B2C6BE6AB00EC9159 /* The_Movie.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = The_Movie.xcdatamodel; sourceTree = "<group>"; };
+		64BFCA222C6BE71600EC9159 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		64BFCA032C6BE6A700EC9159 = {
 			isa = PBXGroup;
 			children = (
+				64BFCA222C6BE71600EC9159 /* README.md */,
 				64BFCA0E2C6BE6A700EC9159 /* The Movie */,
 				64BFCA0D2C6BE6A700EC9159 /* Products */,
 			);
