@@ -11,8 +11,8 @@ import CoreData
 struct ContentView: View {
     
     init() {
-        UITabBar.appearance().backgroundColor = .black
-        UITabBar.appearance().unselectedItemTintColor = .white
+        UITabBar.appearance().unselectedItemTintColor = .black
+        UITabBar.appearance().backgroundColor = .white
        
     }
     var body: some View {
